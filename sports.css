@@ -1,0 +1,29 @@
+.body{
+    background-color: rgb(251, 189, 252);
+    padding-bottom: 20px;
+}
+.heading{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: rgb(244, 129, 238);
+}
+.form{
+    text-align: center;
+}
+.ip{
+    width: 300px;
+    height: 40px;
+    border-radius: 3px;
+    border: 2px solid rgb(249, 100, 246);
+}
+.sub{
+    width:90px;
+    height: 35px;
+}
+.label{
+    font-size: 30px;
+}
+#im{
+    display: none;
+}
